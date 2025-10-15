@@ -96,8 +96,8 @@ PCB Fabrication and Protoyping
 For neat and clean, reliable, high quality PCB fabrication and prototyping PCBWAY is the best platform. From idea to physical product PCBWAY knows the best to achieve.
 For more information click on the link below
 
-![Uploading image.png…]()
-https://www.pcbway.com
+[![PCBWAY](https://www.pcbway.com/images/pcbway_logo.png)](https://www.pcbway.com)
+
 ---
 
 > ⚠️ This project is intended for prototyping, testing, and development. Ensure safe handling of power inputs and follow datasheet guidelines for the NRF54L15 and all connected modules.
