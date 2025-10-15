@@ -92,6 +92,12 @@ This repository contains the full schematic for a compact and modular sensor int
 📞 +92 340 0586446  
 📧 [muddessirarif140174@gmail.com](mailto:muddessirarif140174@gmail.com)
 
+PCB Fabrication and Protoyping
+For neat and clean, reliable, high quality PCB fabrication and prototyping PCBWAY is the best platform. From idea to physical product PCBWAY knows the best to achieve.
+For more information click on the link below
+
+![Uploading image.png…]()
+https://www.pcbway.com
 ---
 
 > ⚠️ This project is intended for prototyping, testing, and development. Ensure safe handling of power inputs and follow datasheet guidelines for the NRF54L15 and all connected modules.
