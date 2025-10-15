@@ -96,7 +96,7 @@ PCB Fabrication and Protoyping
 For neat and clean, reliable, high quality PCB fabrication and prototyping PCBWAY is the best platform. From idea to physical product PCBWAY knows the best to achieve.
 For more information click on the link below
 
-[![PCBWAY](https://www.pcbway.com/images/pcbway_logo.png)](https://www.pcbway.com)
+[![PCBWAY](https://upload.wikimedia.org/wikipedia/commons/8/87/PCBWay_logo.png)](https://www.pcbway.com)
 
 ---
 
